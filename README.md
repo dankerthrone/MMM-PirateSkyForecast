@@ -29,9 +29,9 @@ At a minimum you need to supply the following required configuration parameters:
 * `longitude`
 
 You can request an API key to access Dark Sky data here:
-`https://darksky.net/dev`.
+`https://pirateweather.net/`.
 
-Free tier is fine -- this module will not make any where near 1000 request on one day.
+Free tier is fine -- this module will not make any where near 10000 request on one day.
 
 Find out your latitude and longitude here:
 `https://www.latlong.net/`.
@@ -206,7 +206,7 @@ Find out your latitude and longitude here:
 This module is set to be 300px wide by default.  If you wish to override it, you can add the following to your `custom.css` file:
 
 ```
-.MMM-DarkSkyForecast .module-content {
+.MMM-PirateWeatherForecast .module-content {
   width: 500px; /* adjust this to taste */
 }
 ```
@@ -246,6 +246,6 @@ https://www.graphberry.com/item/weathera-weather-forecast-icons
 Some of the icons were modified to better work with the module's
 structure and aesthetic.
 
-**Weather data provided by Dark Sky**<br />
-https://darksky.net/
+**Weather data provided by PirateWeather**<br />
+https://pirateweather.net/
 
