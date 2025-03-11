@@ -1,5 +1,7 @@
 # MMM-DarkSkyForecast
 
+## **This module is not maintained anymore!** Do not use this repository. Instead, you should explore this fork: https://github.com/b-reich/MMM-PirateSkyForecast
+
 This a module for <strong>MagicMirror</strong><br>
 https://magicmirror.builders/<br>
 https://github.com/MichMich/MagicMirror
